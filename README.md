@@ -10,15 +10,19 @@ I am also experienced in MongoDB and Quick.DB.
 1. Team Oslo SSO (Single Sign-on)
 2. BotHouse
 3. ContentHelper/SOCI.AL 2.0
+
 ---
 👩‍🏫 I am currently learning:
 1. React Native
+
 ---
 💰 Commission Status:
-<p>Open for commissions | DM me on [**Twitter**](https://twitter.com/espressosquad)</p>
+Open for commissions | DM me on [Twitter](https://twitter.com/espressosquad)
+
 ---
 ❓ Looking for help:
 I am looking for developers to help out with Snapper. There may be monetary payment after launch for your efforts.
+
 ---
 📧 How you can reach me:
 You can reach me in any way listed below:
@@ -29,6 +33,7 @@ You can reach me in any way listed below:
 Pronouns: Him/He
 Gender: Male
 Sexual Orientation: 🏳‍🌈
+
 ---
 # My Stats
 
