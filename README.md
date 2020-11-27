@@ -15,7 +15,7 @@ I am also experienced in MongoDB and Quick.DB.
 1. React Native
 ---
 💰 Commission Status:
-Open for commissions | DM me on [**Twitter**](https://twitter.com/espressosquad)
+<p>Open for commissions | DM me on [**Twitter**](https://twitter.com/espressosquad)</p>
 ---
 ❓ Looking for help:
 I am looking for developers to help out with Snapper. There may be monetary payment after launch for your efforts.
