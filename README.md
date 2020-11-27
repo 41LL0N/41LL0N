@@ -29,6 +29,8 @@ You can reach me in any way listed below:
 1. [Twitter](https://twitter.com/espressosquad)
 2. Discord: Dillon✨#0001
 3. [Email](mailto:dillonveit1@gmail.com)
+
+---
 👦 Pronouns and Gender
 Pronouns: Him/He
 Gender: Male
