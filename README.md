@@ -1,34 +1,32 @@
 # Oh, hello there! 👋
 
 Welcome to my page!
-My name is **Dillon** but I go by **41LL0N**. I am a full-stack web developer specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more.
+My name is **Dillon**. I am a full-stack web developer specialising in React, React Native, EJS, HTML, CSS, JavaScript, and more.
 I am also experienced in MongoDB and Quick.DB.
 
 ### Contact and Info 💻
 
 ### 👨‍💻 I am currently working on:
-1. Team Oslo SSO (Single Sign-on)
-2. BotHouse
-3. ContentHelper/SOCI.AL 2.0
+1. The Queer Cause website and all related staff and public services
+2. Infinity Bots
+3. Invertuo ID, Invertuo Atlas, MY/MOD & Connectly
 
 ---
 ### 👩‍🏫 I am currently learning:
-1. React Native
+1. C#
+2. C++
+3. Python
 
 ---
 ### 💰 Commission Status:
-Open for commissions | DM me on [Twitter](https://twitter.com/espressosquad)
-
----
-### ❓ Looking for help:
-I am looking for developers to help out with Snapper. There may be monetary payment after launch for your efforts.
+Not taking commissions
 
 ---
 ### 📧 How you can reach me:
 You can reach me in any way listed below:
 1. [Twitter](https://twitter.com/espressosquad)
-2. Discord: Dillon✨#0001
-3. [Email](mailto:dillonveit1@gmail.com)
+2. [Discord](https://discord.com/users/865420570103644181)
+3. [Email](mailto:dillon.veit1@outlook.com)
 
 ---
 ### 👦 Pronouns and Gender
